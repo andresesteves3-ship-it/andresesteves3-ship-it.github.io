@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.andresesteves3_ship_it.twa",
+        "sha256_cert_fingerprints": ["7C:E0:10:83:D4:1E:DE:3D:36:EF:9E:F1:BD:3D:1E:68:B0:B0:A4:63:66:C7:2A:CF:CC:8C:33:78:FD:2C:E1:88"]
+      }
+    }]
